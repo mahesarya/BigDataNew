@@ -12,6 +12,10 @@ asbmn smc
 mahesh
 
 
+<<<<<<< HEAD
 this is the second line
 
 this is one more line
+=======
+one more line added by mahesh
+>>>>>>> a398c3180f26364755a4f3c86e36bedde6d3d3c6
