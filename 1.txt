@@ -16,10 +16,5 @@ mahesh
 now add your line on it
 
 
-<<<<<<< HEAD
-this is new lines i am adding on it 
-please go throw it
-=======
 
-
->>>>>>> 5c293da735cc9950fbcdf8556cf03bf2d99786dc
+this is development information written by Mahesh
